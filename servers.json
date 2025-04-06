@@ -1,0 +1,16 @@
+[
+    {
+      "color": "00FF00",
+      "dopname": "",
+      "maxonline": 50,
+      "name": "Central",
+      "online": 0
+    },
+    {
+      "color": "ffFFFF",
+      "dopname": "",
+      "maxonline": 0,
+      "name": "Test",
+      "online": 0
+    }
+]
